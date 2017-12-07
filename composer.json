@@ -1,0 +1,13 @@
+{
+    "name": "zyq/first-pack",
+    "description": "first",
+    "type": "library",
+    "authors": [
+        {
+            "name": "zhangyongqi",
+            "email": "zhangyongqi@wangcaigu.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
